@@ -1,0 +1,96 @@
+Python Operators
+
+Python operators are symbols or keywords used to perform different operations on variables and values.
+
+There are mainly 7 types of operators in Python.
+
+1. Arithmetic Operators
+
+Arithmetic operators are used to perform mathematical calculations.
+
+The arithmetic operators are:
+
++ → Addition
+- → Subtraction
+* → Multiplication
+/ → Division
+% → Modulus (remainder)
+** → Exponent (power)
+// → Floor Division
+
+
+2. Assignment Operators
+
+Assignment operators are used to assign values to variables or update their values.
+
+The assignment operators are:
+
+= → Assign
++= → Add and assign
+-= → Subtract and assign
+*= → Multiply and assign
+/= → Divide and assign
+%= → Modulus and assign
+**= → Exponent and assign
+//= → Floor division and assign
+
+
+3. Comparison Operators
+
+Comparison operators are used to compare two values.
+
+They return the result as True or False.
+
+The comparison operators are:
+
+== → Equal to
+!= → Not equal to
+> → Greater than
+< → Less than
+>= → Greater than or equal to
+<= → Less than or equal to
+
+
+4. Logical Operators
+
+Logical operators are used to combine or modify conditions.
+
+The logical operators are:
+
+and → True when both conditions are True
+or → True when at least one condition is True
+not → Reverses the result
+
+
+5. Bitwise Operators
+
+Bitwise operators are used to perform operations on binary numbers.
+
+The bitwise operators are:
+
+& → AND
+| → OR
+^ → XOR
+~ → NOT
+<< → Left Shift
+>> → Right Shift
+
+
+6. Membership Operators
+
+Membership operators are used to check whether a value is present in a sequence such as a list, tuple, string, or set.
+
+The membership operators are:
+
+in → Checks if a value is present
+not in → Checks if a value is not present
+
+
+7. Identity Operators
+
+Identity operators are used to check whether two variables refer to the same object.
+
+The identity operators are:
+
+is → Checks if both variables refer to the same object
+is not → Checks if both variables do not refer to the same object
