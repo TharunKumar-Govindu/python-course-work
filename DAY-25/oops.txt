@@ -1,0 +1,51 @@
+  Object-Oriented Programming (OOP)
+-----------------------------------------
+OOPs (Object-Oriented Programming System) is a programming approach where we organize our program using objects and classes.
+
+In simple words:
+OOPs means writing programs by creating objects that contain data and functions together.
+
+For example, think about a Car:
+Data → color, brand, speed
+Functions → start(), stop(), accelerate()
+
+
+Why do we need OOPs
+-----------------------
+1. Code Reusability – Reuse the same code multiple times.
+2. Easy Maintenance – Easy to modify and update the program.
+3. Code Organization – Organizes code into classes and objects.
+4. Reduces Code Duplication – Avoids writing the same code again and again.
+5. Data Security – Protects data using encapsulation.
+6. Handles Large Programs – Makes complex programs easier to manage.
+7. Real-World Representation – Represents real-world entities like Student, Car, Employee, etc.
+8. Easy Debugging – Problems can be isolated within specific classes.
+9. Scalability – Makes it easier to add new features to a program.
+10. Faster Development – Reusable classes and methods reduce development time.
+
+
+Classes:
+A class is a blueprint or template used to create objects.
+It defines the attributes (data) and methods (behavior) that every object created from the
+class will have.
+
+Objects:
+An object is an instance of a class. Objects are the real entities created from a class. A
+single class can be used to create multiple objects.
+
+
+Encapsulation – Wrapping data and methods together in a single unit.
+
+Inheritance – Acquiring properties and methods from another class.
+
+    There are 5 main types of inheritance:
+    Single Inheritance – One child class inherits from one parent class.
+    Multiple Inheritance – One child class inherits from multiple parent classes.
+    Multilevel Inheritance – A class inherits from another child class, forming multiple levels.
+    Hierarchical Inheritance – Multiple child classes inherit from one parent class.
+    Hybrid Inheritance – A combination of two or more types of inheritance.
+
+Polymorphism – One method or operation can behave in different ways.
+
+Abstraction – Hiding unnecessary implementation details and showing only essential information.
+
